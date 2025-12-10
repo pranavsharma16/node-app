@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        REPO_URL = "http://git-server:3000/max/node-app.git"
+        REPO_URL = "https://github.com/pranavsharma16/node-app"
     }
 
     stages {
